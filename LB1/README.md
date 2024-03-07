@@ -7,7 +7,7 @@ listet die zehn größten Sicherheitsrisiken für Webanwendungen auf und wird re
 dabei, Sicherheitsprobleme zu erkennen und zu beheben. Die OWASP Top 10 bezieht sich auf Schwachstellen aus der
 CWE-Liste, um Sicherheitsrisiken besser zu erklären. Zusammen tragen sie dazu bei, die IT-Sicherheit zu verbessern.
 
-## OWASP Top 10 vs OWASP Proactive Controls
+## OWASP Top 10 Risk vs OWASP Proactive Controls
 
 ### OWASP Top 10: 
 Dies ist eine Liste der zehn häufigsten und kritischsten Sicherheitsrisiken in Webanwendungen, die auf Daten aus verschiedenen Sicherheitsorganisationen und -unternehmen basiert. Die Liste wird regelmäßig aktualisiert und enthält Beschreibungen der Risiken, Beispiele, wie sie ausgenutzt werden können, und Empfehlungen, wie sie vermieden oder gemindert werden können. Einige Beispiele für Risiken, die in der OWASP Top 10 aufgeführt sind, sind Injection, Broken Authentication und Sensitive Data Exposure.
